@@ -20,6 +20,6 @@
 <img alt="Hibernate" src ="https://img.shields.io/badge/Hibernate-59666C.svg?&style=for-the-badge&logo=Hibernate&logoColor=white"/>
 
 <h2></h2>
-<img src="https://github-readme-stats.vercel.app/api?username=leeggmin&theme=onedark&show_icons=true&hide_border=true" alt="my github stats" width=49% />
+<img src="https://github-readme-stats.vercel.app/api?username=leeggmin&theme=onedark&show_icons=true&hide_border=true" alt="my github stats" width=50% />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeggmin&theme=onedark&layout=compact&hide_border=true" alt="my github top langs" width=49% />
 </div>
